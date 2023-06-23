@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alta_QA_MKhairulFR.iml" filepath="$PROJECT_DIR$/Alta_QA_MKhairulFR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic Programin/Basic Programin.iml" filepath="$PROJECT_DIR$/Basic Programin/Basic Programin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+    </modules>
+  </component>
+</project>
